@@ -1,0 +1,21 @@
+li{
+    color: blue; 
+    margin-bottom:auto ;
+    
+  }
+  
+  dt{
+    color: rgb(39, 96, 77);
+  }
+
+  dd{
+    color: brown;
+  }
+
+  form{
+    color: rgb(122, 19, 19);
+  }
+
+  p{
+    color: midnightblue;
+  }
