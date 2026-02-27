@@ -1,0 +1,33 @@
+body{
+    background-color: bisque;
+    text-align: left;
+}
+.txt{
+    color: cadetblue;
+    text-align: center;
+    font-weight: 400;
+}
+.btn{
+    color: brown;
+    background-color: rgb(237, 236, 235);
+    text-align: center;
+    width: 50px;
+    text-decoration: dotted underline;
+}
+
+a{
+    text-decoration: none;
+    font-weight: 500;
+    
+}
+
+.demo{
+    color: cadetblue;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium';
+}
+
+.text{
+    color: cadetblue;
+    font-weight: 600;
+}
